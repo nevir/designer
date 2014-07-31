@@ -1,6 +1,7 @@
 {
   "name": "designer",
   "private": true,
+  "directory": "components",
   "dependencies": {
     "platform": "Polymer/platform#master",
     "code-mirror": "PolymerLabs/code-mirror#master",
